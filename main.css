@@ -1,0 +1,144 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#color {
+    display: inline-block;
+    width: 100%;
+}
+
+#wrapper {
+    margin: 0 auto;
+    width: 980px;
+}
+
+#about {
+    padding: 12px 80px;
+    display: inline-block;
+}
+
+ul {
+    display: inline-block;
+}
+
+li {
+    display: inline-block;
+    padding-right: 20px;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+#offer {
+    color: #FF5DA3;
+
+}
+
+#contacts {
+    border-radius: 8px;
+    background: #00AC25;
+    padding: 8px 16px;
+    color: #fff;
+    border: none;
+}
+
+#test {
+    display: inline-block;
+    width: 200px;
+    text-align: end;
+}
+
+#main {
+    max-width: 1316px;
+    margin: 0 auto;
+}
+
+#If {
+    margin-top: 246px;
+    color: #000;
+    text-align: center;
+    font-size: 72px;
+}
+
+#an {
+    color: #FF5DA3;
+    font-size: 72px;
+    font-weight: 700;
+    text-align: center;
+}
+
+#unluc {
+    font-size: 24px;
+    text-align: center;
+
+}
+
+#enjoy {
+    text-align: center;
+    font-size: 48px;
+    font-weight: 700;
+    margin: 24px;
+
+}
+
+#the {
+    max-width: 1005px;
+    text-align: center;
+
+
+}
+
+#inspire {
+
+    color: #6941C6;
+    font-size: 24px;
+    font-weight: 400;
+    margin-left: 280px;
+}
+
+
+#ane {
+    border-radius: 8px;
+    background: #00AC25;
+    color: #FFF;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    padding: 16px 24px;
+    
+}
+
+#instructor {
+    text-align: center;
+    margin-top: 24px;
+}
+
+#overy {
+    display: inline-block;
+    width: 100%;
+    background-color: #53389E;
+    margin-top: 538px;
+    height: 128px;
+}
+
+#footer {
+    margin-top: 48px;
+    margin-left: 320px;
+    vertical-align: bottom;
+}
+#and {
+    margin-left: 300px;
+    margin-bottom: 0px;
+    color: #FFF;
+}
+
+#futy {
+    margin-top: -30px;
+}
+
+#copy {
+    margin-left: 300px;
+    color: #FFF;
+}
